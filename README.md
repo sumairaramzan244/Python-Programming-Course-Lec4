@@ -30,8 +30,6 @@ python lecture_4_input_strings.py
 Author  : Sumaira Ramzan  
 Program : Punjab Hunarmand, Python Programming Course — Batch 3  
 City    : Punjab, Pakistan  
-
-Program : Punjab Hunarmand — Batch 3  
 Lecture : 4  
 Topic   : Input, Strings & Escape Sequences  
 Status  : In Progress  
