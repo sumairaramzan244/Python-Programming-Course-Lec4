@@ -8,30 +8,31 @@ In Lecture 4, I learned how to take input from the user and how to work with str
 
 # What I Learned
 
-input() function takes input from the user and always stores it as a string
-We can print variables using comma ( , ) or plus ( + ) operator
-sep is used to separate printed values with any character we choose
-end is used to change what appears at the end of a print statement instead of default newline
-\n prints the next text on a new line
-\t adds a tab space between text
-\\ is used to print a literal backslash character
-\' and \" are used to print quotes inside a string
-f-string is written with f" " and variables are placed directly inside { } curly braces
+input() function takes input from the user and always stores it as a string  
+We can print variables using comma ( , ) or plus ( + ) operator  
+sep is used to separate printed values with any character we choose   
+end is used to change what appears at the end of a print statement instead of default newline  
+\n prints the next text on a new line  
+\t adds a tab space between text  
+\\ is used to print a literal backslash character  
+\' and \" are used to print quotes inside a string  
+f-string is written with f" " and variables are placed directly inside { } curly braces  
 
 
 # How to Run
 
-Install Python from https://www.python.org
-Open terminal and type:
-python lecture_4_input_strings.py
+Install Python from https://www.python.org  
+Open terminal and type:  
+python lecture_4_input_strings.py  
 
 
-# Ownership
-Author  : Sumaira Ramzan
-Program : Punjab Hunarmand, Python Programming Course — Batch 3
-City    : Punjab, Pakistan
+# Ownership  
+Author  : Sumaira Ramzan  
+Program : Punjab Hunarmand, Python Programming Course — Batch 3  
+City    : Punjab, Pakistan  
 
-Program : Punjab Hunarmand — Batch 3
-Lecture : 4
-Topic   : Input, Strings & Escape Sequences
-Status  : In Progress
+Program : Punjab Hunarmand — Batch 3  
+Lecture : 4  
+Topic   : Input, Strings & Escape Sequences  
+Status  : In Progress  
+
