@@ -3,7 +3,7 @@
 # Python Basics — Punjab Hunarmand Batch 3
 This repository contains my Python code from Lecture 4 at Punjab Hunarmand Program, Batch 3.
 
-# Lecture 4 — Input, Strings & Escape Sequences in Python
+# Lecture 4 — Input, Strings & Escape Sequences  amd f string in Python
 In Lecture 4, I learned how to take input from the user and how to work with strings in Python. I also learned about escape sequences and f-strings which make printing and formatting much easier and cleaner.
 
 # What I Learned
